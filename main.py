@@ -21,6 +21,7 @@ if __name__ == '__main__':
     resultado = somar(7,5)
     print(f'Resultado = {resultado}')
 
+    # Escrevi isso no GITHub
 
 
 
