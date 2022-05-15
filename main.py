@@ -22,6 +22,7 @@ if __name__ == '__main__':
     print(f'Resultado = {resultado}')
 
     # Escrevi isso no GITHub
+    # Eu vi  - kkkkkkk
 
 
 
