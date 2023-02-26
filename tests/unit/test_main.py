@@ -2,6 +2,7 @@ import pytest
 
 from main import somar, dividir
 
+
 def teste_somar():
     # 1 - configura
     num1 = 8

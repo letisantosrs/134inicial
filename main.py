@@ -1,4 +1,7 @@
 import pytest
+
+
+
 def imprimir_oi(nome):
     print(f'Oi, {nome}')  # Press Ctrl+F8 to toggle the breakpoint.
 
@@ -14,6 +17,7 @@ def dividir(num1, num2):
         return 'Não existe divisão por zero'
 
 
+
 if __name__ == '__main__':
     imprimir_oi ('Letícia')
 
@@ -25,6 +29,3 @@ if __name__ == '__main__':
     # Eu vi  - kkkkkkk
     # Mais um comentário escrito no GIT
     # Testando outra vez
-
-
-
