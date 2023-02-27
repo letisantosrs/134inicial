@@ -47,6 +47,7 @@ def teste_dividir_negativo():
         # 3 - Valida
         assert resultado_obtido == resultado_esperado
 
+
 # Lista para uso como massa de teste
 lista_de_valores = [
     (8, 7, 15),
