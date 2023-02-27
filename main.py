@@ -26,6 +26,6 @@ if __name__ == '__main__':
     print(f'Resultado = {resultado}')
 
     # Escrevi isso no GITHub
-    # Eu vi  - kkkkkkk
+    # teste de compartilhamento de código <<
     # Mais um comentário escrito no GIT
     # Testando outra vez
