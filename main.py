@@ -27,5 +27,6 @@ if __name__ == '__main__':
 
     # Escrevi isso no GITHub
     # teste de compartilhamento de código <<
+    # eu vi o teu comentário 
     # Mais um comentário escrito no GIT
     # Testando outra vez
